@@ -7,8 +7,8 @@
 
 ## O Projeto :purple_heart:
 Aplicação desenvolvida com uma ideia muito similar ao do pomodoro, para usuários que passam bastante tempo trabalhando no computador, para alcançar o foco
-na tarefa que você esteja fazendo e conseguir te manter alongado em algumas atividades físicas simples.
-A aplicação contém uma pequena gamificação, que ao completar desafios você ganha xp e ainda pode subir de level.
+na tarefa que você esteja fazendo e conseguir te manter alongado em algumas atividades físicas simples
+A aplicação contém uma pequena gamificação, que ao completar desafios você ganha xp e ainda pode subir de level
 
 ## :rocket: Tecnologias
 - ReactJS :fire:
